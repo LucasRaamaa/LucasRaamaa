@@ -21,7 +21,7 @@ Proyectos Actuales..
  – Proyecto Java académico.  https://github.com/LucasRaamaa/Techlab
 
 
- Contactos..
+ Me podes contactar...
  
  Lucasraamaa@gmail.com
  
