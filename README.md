@@ -5,7 +5,7 @@
 
 Stack técnico:
 
-Lenguajes: Java, Cobol, React.js, Python, Natural/Adabas.
+Lenguajes: Java, Cobol, React.js, Natural/Adabas.
 
 Bases de datos: SQL, MySQL, Oracle PL/SQL.
 
