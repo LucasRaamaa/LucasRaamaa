@@ -1,7 +1,6 @@
 ## Hola a todos!! 👋
 
-👋 Hola, soy Lucas Ramallo – Desarrollador de software con experiencia en Java, Cobol, React.js.
-
+👋 Hola, soy Lucas Ramallo – Desarrollador de software con experiencia en Java.
 
 Stack técnico:
 
@@ -9,20 +8,15 @@ Lenguajes: Java, Cobol, React.js, Natural/Adabas.
 
 Bases de datos: SQL, MySQL, Oracle PL/SQL.
 
-Metodologías: Agile, Scrum.
-
-Herramientas: Git, JIRA.
-
-
 
 Proyectos Actuales..
-🚀 Techlab
+Techlab
 
  – Proyecto Java académico.  https://github.com/LucasRaamaa/Techlab
  
  – Proyecto Java AuthenticationJWT. https://github.com/LucasRaamaa/AuthenticationJwt
 
- Me podes contactar...
+ Me podes contactar por...
  
  Lucasraamaa@gmail.com
  
