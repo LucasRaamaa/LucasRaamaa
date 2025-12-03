@@ -14,7 +14,7 @@ Techlab
 
  – Proyecto Java académico.  https://github.com/LucasRaamaa/TechLabFinal
 
- - Proyecto GestorProductos/roles https://github.com/LucasRaamaa/GestorProductos-P
+ – Proyecto GestorProductos/roles https://github.com/LucasRaamaa/GestorProductos-P
  
  – Proyecto Java AuthenticationJWT. https://github.com/LucasRaamaa/AuthenticationJwt
 
