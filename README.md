@@ -3,6 +3,12 @@
 👋 Hola, soy Lucas Ramallo – Desarrollador de software con experiencia en Java.
 
 Stack técnico:
+### Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 Lenguajes: Java, Cobol, React.js, Natural/Adabas.
 
@@ -18,7 +24,7 @@ Techlab
  
  – Proyecto Java AuthenticationJWT. https://github.com/LucasRaamaa/AuthenticationJwt
 
- Me podes contactar por...
+  Me podes contactar por...
  
  Lucasraamaa@gmail.com
  
