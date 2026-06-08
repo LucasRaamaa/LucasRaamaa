@@ -1,6 +1,8 @@
 ## Hola a todos!! 👋
 
-Hola, soy Lucas Ramallo – Desarrollador de software con experiencia en Java.
+Hola, soy Lucas Ramallo – 
+
+Desarrollador de software con experiencia en desarrollo de aplicaciones con java y Spring Boot, implementación de APIs RESTful y gestión de bases de datos relacionales (MySQL). Experiencia en proyectos reales con metodologías agiles. Actualmente cursando segundo año de la Licenciatura en Sistema, orientado a las mejoras continuas y buenas practicas. 
 
 Proyectos Actuales..
 Techlab
