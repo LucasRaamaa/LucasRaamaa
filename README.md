@@ -11,7 +11,7 @@ Techlab
  
  - Proyecto Actualmente https://github.com/LucasRaamaa/ClinicManagement 
 
- – Proyecto Java académico.  https://github.com/LucasRaamaa/TechLabFinal
+ - Proyecto Java académico.  https://github.com/LucasRaamaa/TechLabFinal
  
   
 Stack técnico:
