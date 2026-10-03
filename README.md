@@ -7,13 +7,13 @@ Desarrollador de software con experiencia en desarrollo de aplicaciones con java
 Proyectos Actuales..
 Techlab
 
+ - Clima Alert https://github.com/LucasRaamaa/ClimaAlert
+ 
  - Proyecto Actualmente https://github.com/LucasRaamaa/ClinicManagement 
 
  – Proyecto Java académico.  https://github.com/LucasRaamaa/TechLabFinal
  
- – Proyecto GestorProductos/roles/front-end https://github.com/LucasRaamaa/GestorProductos-P
- 
- 
+  
 Stack técnico:
 
 **Backend** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
