@@ -4,7 +4,7 @@ Hola, soy Lucas Ramallo –
 
 Desarrollador de software con experiencia en desarrollo de aplicaciones con java y Spring Boot, implementación de APIs RESTful y gestión de bases de datos relacionales (MySQL). Experiencia en proyectos reales con metodologías agiles. Actualmente cursando segundo año de la Licenciatura en Sistema, orientado a las mejoras continuas y buenas practicas. 
 
-Salesforce: https://www.salesforce.com/trailblazer/wbd2d8vh4rvmx6jqhv
+Salesforce: ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white) https://www.salesforce.com/trailblazer/wbd2d8vh4rvmx6jqhv
 
 Proyectos Actuales..
 Techlab
